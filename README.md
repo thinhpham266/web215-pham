@@ -9,7 +9,7 @@ invited the following on 1/22/2020:
 - Alexander Schmid - LTSchmiddy
 - Terrell Scott - tdscott1978
 - Marc Seelenger - mseelingerjr
-- Emmanuel Sosa - sosaeman
+- Emmanuel Sosa - sosaeman was here 5:39 1/22/2020
 - Kewal Thapa - Kewalthapa
 - D.I. von Briesen - divonbriesen: repo: https://github.com/divonbriesen/CP_WEB215_SP2020
 - Elena Zelenina - ElenaZelenina: repo: https://github.com/ElenaZelenina/web215-Zelenina - was here 4:50 1/22/2020
