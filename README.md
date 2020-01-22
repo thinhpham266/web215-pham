@@ -11,6 +11,7 @@ invited the following on 1/22/2020:
 - Marc Seelenger - mseelingerjr
 - Emmanuel Sosa - sosaeman
 - Kewal Thapa - Kewalthapa
-- D.I. von Briesen - divonbriesen
+- D.I. von Briesen - divonbriesen: repo: https://github.com/divonbriesen/CP_WEB215_SP2020
+- Elena Zelenina - ElenaZelenina: repo: https://github.com/ElenaZelenina/web215-Zelenina
 ## waiting to get ids for:
 - sabrina Nur
