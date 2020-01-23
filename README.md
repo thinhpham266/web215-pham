@@ -8,7 +8,7 @@ invited the following on 1/22/2020:
 - Robert Propheter - robert-m-proph
 - Alexander Schmid - LTSchmiddy
 - Terrell Scott - tdscott1978
-- Marc Seelenger - mseelingerjr
+- Marc Seelenger - mseelingerjr was 8:32pm 1/22/20
 - Emmanuel Sosa - sosaeman was here 5:39 1/22/2020
 - Kewal Thapa - Kewalthapa
 - D.I. von Briesen - divonbriesen: repo: https://github.com/divonbriesen/CP_WEB215_SP2020
