@@ -1,7 +1,7 @@
 # web215-pham
 This repo is to get comfortable collaborating with my classmates
 invited the following on 1/22/2020:
-- Kendall Cheek - KendallCheek
+- Kendall Cheek - KendallCheek was here 5:30 am 1/23/20
 - Safron Haile - SafronH
 - Mariia - MariiaPa
 - Thinh Pham - thinhpham2606
