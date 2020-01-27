@@ -3,7 +3,7 @@ This repo is to get comfortable collaborating with my classmates
 invited the following on 1/22/2020:
 - Kendall Cheek - KendallCheek was here 5:30 am 1/23/20
 - Safron Haile - SafronH
-- Mariia - MariiaPa
+- Mariia - MariiaPa - Mariia Pavlenko was here at 10:56 am on 1/27/2020
 - Thinh Pham - thinhpham2606
 - Robert Propheter - robert-m-proph
 - Alexander Schmid - LTSchmiddy
